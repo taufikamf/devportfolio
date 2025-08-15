@@ -1,6 +1,6 @@
 <img width="1943" height="1093" alt="image" src="https://github.com/user-attachments/assets/cc2ff955-17c2-48c7-81c8-479a0f061850" />
 
-# DevPortfolio Template
+# portfolio Template
 
 A modern, minimalist portfolio template built with Astro and Tailwind CSS. Perfect for developers looking to showcase their skills, experience, and projects in a clean, professional way.
 
@@ -14,7 +14,7 @@ This template also comes with `CLAUDE.md` and `.cursor/rules` files for easy int
 
 ## Preview
 
-To view a live preview of the site, [click here](https://ryanfitzgerald.github.io/devportfolio/).
+To view a live preview of the site, [click here](https://ryanfitzgerald.github.io/portfolio/).
 
 ## Built With
 
@@ -123,7 +123,7 @@ The template uses [Tabler Icons](https://tabler.io/icons) for all icons. If you 
 ## Project Structure
 
 ```
-devportfolio/
+portfolio/
 ├── public/
 │   └── favicon.svg          # Site favicon
 ├── src/
@@ -151,8 +151,8 @@ devportfolio/
 If you'd like to run it locally:
 
 ```
-git clone https://github.com/RyanFitzgerald/devportfolio.git
-cd devportfolio
+git clone https://github.com/RyanFitzgerald/portfolio.git
+cd portfolio
 npm install
 ```
 
