@@ -3,7 +3,7 @@ export const siteConfig = {
   title: "Software Developer",
   description: "Portfolio website of Taufiq Mufti",
   accentColor: "#1d4ed8",
-  heroImage: "https://i.pinimg.com/736x/27/29/cb/2729cb898bc3ec735fb62b5181eaca76.jpg",
+  heroImage: "https://raw.githubusercontent.com/taufikamf/portfolio/refs/heads/main/public/me.jpeg",
   social: {
     email: "taufikabdul354@gmail.com",
     linkedin: "https://linkedin.com/in/taufikamf",
